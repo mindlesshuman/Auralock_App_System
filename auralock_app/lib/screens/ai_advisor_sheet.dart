@@ -13,7 +13,7 @@ class _AIAdvisorSheetState extends State<AIAdvisorSheet> {
   final TextEditingController _messageController = TextEditingController();
   final ScrollController _scrollController = ScrollController();
   final Color maroonAccent = const Color(0xFF9E1A1A);
-  final String _geminiApiKey = "AIzaSyBPdxcHy5bYWB8LF6Zm5zw5Luz2BpQhATA"; 
+  final String _geminiApiKey = "ADD_YOUR_CHOSEN_AI_API_KEY_HERE"; 
 
   bool _isTyping = false;
 
